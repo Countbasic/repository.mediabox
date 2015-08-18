@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <<<<<<< HEAD
-<addon id="repository.Countbasic" name="Countbasic Add-ons" version="0.0.2" provider-name="Countbasic">
-=======
-<addon id="repository.mediabox" name="Countbasic Add-ons" version="0.0.1" provider-name="Countbasic">
->>>>>>> origin/master
+<addon id="repository.mediabox" name="Countbasic Add-ons" version="0.0.2" provider-name="Countbasic">
     <extension point="xbmc.addon.repository" name="Countbasic Add-ons">
 		<info compressed="true">https://github.com/Countbasic/repository.mediabox.storage/raw/master/addons.xml</info>
 		<checksum>https://github.com/Countbasic/repository.mediabox.storage/raw/master/addons.xml.md5</checksum>
