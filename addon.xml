@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<<<<<<< HEAD
 <addon id="repository.Countbasic" name="Countbasic Add-ons" version="0.0.2" provider-name="Countbasic">
+=======
+<addon id="repository.mediabox" name="Countbasic Add-ons" version="0.0.1" provider-name="Countbasic">
+>>>>>>> origin/master
     <extension point="xbmc.addon.repository" name="Countbasic Add-ons">
 		<info compressed="true">https://github.com/Countbasic/repository.mediabox.storage/raw/master/addons.xml</info>
 		<checksum>https://github.com/Countbasic/repository.mediabox.storage/raw/master/addons.xml.md5</checksum>
@@ -9,7 +13,7 @@
 		<summary>Mediabox Add-ons</summary>
 		<summary lang="de">Mediabox Add-ons</summary>
 		<description>Repository of add-ons by Countbasic. Some add-ons are final and perhaps obtainable by the official repository of KODI. Add-ons in alpha and beta status are here to test exclusively and for testers to provide them with updates.</description>
-		<description lang="de">Einige Add-Ons sind final und vielleicht durch das offizielle Repository von KODI erh‰ltlich. Add-Ons in alpha- und beta-status sind hier ausschlieﬂlich zum Testen und um Tester mit Updates zu versorgen.</description>
+		<description lang="de">Einige Add-Ons sind final und vielleicht durch das offizielle Repository von KODI erh√§ltlich. Add-Ons in alpha- und beta-status sind hier ausschlie√ülich zum Testen und um Tester mit Updates zu versorgen.</description>
 		<platform>all</platform>
 	</extension>
 </addon>
