@@ -9,7 +9,7 @@
 		<summary>Mediabox Add-ons</summary>
 		<summary lang="de">Mediabox Add-ons</summary>
 		<description>Repository of add-ons by Countbasic. Some add-ons are final and perhaps obtainable by the official repository of KODI. Add-ons in alpha and beta status are here to test exclusively and for testers to provide them with updates.</description>
-		<description lang="de">Einige Add-Ons sind final und vielleicht durch das offizielle Repository von KODI erhältlich. Add-Ons in alpha- und beta-status sind hier ausschließlich zum Testen und um Tester mit Updates zu versorgen.</description>
+		<description lang="de">!!!!ANLEITUNG für Burning Series Addon: In den Einstellungen des ADDONs "API vollenden" drücken DAMIT das Addon funktioniert!!!! Einige Add-Ons sind final und vielleicht durch das offizielle Repository von KODI erhältlich. Add-Ons in alpha- und beta-status sind hier ausschließlich zum Testen und um Tester mit Updates zu versorgen. </description>
 		<platform>all</platform>
 	</extension>
 </addon>
